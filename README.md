@@ -1,0 +1,2 @@
+# .github-settings.yml
+test
